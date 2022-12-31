@@ -2,7 +2,7 @@
 ![WebDev](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 # Hey!! Great to see you here!  :-) 
 
-### <div>I am an enthusiastic, aspiring full stack web developer Passionate about implementing and launching new projects.
+### <div>I am an enthusiastic, aspiring Frontend mobile and web developer Passionate about implementing and launching new projects.
 </div> 
 
 

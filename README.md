@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasyadav3935&show_icons=true&locale=en" alt="vikasyadav3935" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasyadav3935&" alt="vikasyadav3935" />
 </p>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 
  
 

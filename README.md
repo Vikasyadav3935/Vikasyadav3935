@@ -1,6 +1,7 @@
 
 
 # Hey!! Great to see you here!  :-) 
+<img  src='https://hydratech.co.ke/wp-content/uploads/2021/04/web-app-coding.gif' height='250px' width="100%"/>
 
 ### <div>I am a passionate developer , interested in learning and implementing new things related to animations.
 </div> 

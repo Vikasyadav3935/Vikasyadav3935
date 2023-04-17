@@ -1,7 +1,7 @@
 
 
 # Hey!! Great to see you here!  :-) 
-<img  src='https://hydratech.co.ke/wp-content/uploads/2021/04/web-app-coding.gif' height='250px' width="100%"/>
+<img  src='https://user-images.githubusercontent.com/108892061/232410690-91dcac46-c962-4fe5-8fe2-4e288bbd62b4.png' height='250px' width="100%"/>
 
 ### <div>I am a React and React-Native developer , interested in learning and implementing new things related to animations.
 </div> 
@@ -43,6 +43,7 @@
  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform
+
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

@@ -1,9 +1,9 @@
 
 
 # Hey!! Great to see you here!  :-) 
-<img  src='https://user-images.githubusercontent.com/108892061/232410690-91dcac46-c962-4fe5-8fe2-4e288bbd62b4.png' height='250px' width="100%"/>
 
-### <div>I am a React and React-Native developer , interested in learning and implementing new things related to animations.
+
+### <div>I am a React and React-Native developer, interested in learning and implementing new things.
 </div> 
 
 

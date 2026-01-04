@@ -31,10 +31,6 @@ const vikas = {
         "Scalable Architecture"
     ],
     
-    achievements: {
-        performanceImprovement: "40%",
-        apiResponseReduction: "35%"
-    }
 };
 ```
 

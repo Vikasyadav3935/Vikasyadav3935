@@ -18,7 +18,7 @@
 
 ```typescript
 const vikas = {
-    role: "Senior Full Stack Developer",
+    role: "Senior Full Stack React Native Developer",
     experience: "2+ years",
     location: "Ayodhya, UP",
     currentCompany: "UClean",
